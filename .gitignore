@@ -1,0 +1,10 @@
+# file types
+*.pyc
+\#*\#
+.*.sw?
+.swp
+## *.desktop
+*.old
+*.bak
+# dirs
+.virtualenv
